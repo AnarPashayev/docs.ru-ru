@@ -45,7 +45,7 @@ ms.locfileid: "80438188"
 
 ## <a name="prepare-and-understand-the-data"></a>Подготовка и анализ данных
 
-> Набор данных для обучения и оценки модели машинного обучения создан на основе [данных о санитарной безопасности ресторанов от Департамента здравоохранения Сан-Франциско](https://www.sfdph.org/dph/EH/Food/score/default.asp). Для удобства этот набор данных был уплотнен и теперь включает только столбцы, имеющее прямое отношение к обучению модели и прогнозированию. Чтобы узнать больше об этом [наборе данных](https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0), посетите следующий веб-сайт.
+> Набор данных для обучения и оценки модели машинного обучения создан на основе [данных о санитарной безопасности ресторанов от Департамента здравоохранения Сан-Франциско](https://www.sfdph.org/dph/EH/Food/score/default.asp). Для удобства этот набор данных был сжат и теперь включает только столбцы, имеющее прямое отношение к обучению модели и прогнозированию. Чтобы узнать больше об этом [наборе данных](https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0), посетите следующий веб-сайт.
 
 [Скачайте набор данных об оценке безопасности ресторанов](https://github.com/luisquintanilla/machinelearning-samples/raw/AB1608219/samples/modelbuilder/MulticlassClassification_RestaurantViolations/RestaurantScores.zip) и распакуйте его.
 
